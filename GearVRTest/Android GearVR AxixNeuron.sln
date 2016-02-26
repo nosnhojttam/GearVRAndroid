@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{93879BCF-877E-ED16-EFED-E9AF05C0CB63}") = "Android GearVR AxixNeuron", "Assembly-CSharp-firstpass.csproj", "{89955BD4-29C9-DE27-0508-0A8CB16EE772}"
+EndProject
+Project("{93879BCF-877E-ED16-EFED-E9AF05C0CB63}") = "Android GearVR AxixNeuron", "Assembly-CSharp.csproj", "{ECAD4A0E-4009-D4DD-A84F-98EDDD76708A}"
+EndProject
+Project("{93879BCF-877E-ED16-EFED-E9AF05C0CB63}") = "Android GearVR AxixNeuron", "Assembly-CSharp-Editor.csproj", "{11F6D4E7-6C2C-31C7-C4EC-5789C742C409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89955BD4-29C9-DE27-0508-0A8CB16EE772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89955BD4-29C9-DE27-0508-0A8CB16EE772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89955BD4-29C9-DE27-0508-0A8CB16EE772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89955BD4-29C9-DE27-0508-0A8CB16EE772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAD4A0E-4009-D4DD-A84F-98EDDD76708A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAD4A0E-4009-D4DD-A84F-98EDDD76708A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAD4A0E-4009-D4DD-A84F-98EDDD76708A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAD4A0E-4009-D4DD-A84F-98EDDD76708A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F6D4E7-6C2C-31C7-C4EC-5789C742C409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F6D4E7-6C2C-31C7-C4EC-5789C742C409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F6D4E7-6C2C-31C7-C4EC-5789C742C409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F6D4E7-6C2C-31C7-C4EC-5789C742C409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E7BA51EA-9C04-1970-B74A-46C23E15CFC2}") = "GearVRTest", "Assembly-CSharp-firstpass.csproj", "{2E550816-3FA1-E71E-9BD9-7AEE3ED35E8D}"
+EndProject
+Project("{E7BA51EA-9C04-1970-B74A-46C23E15CFC2}") = "GearVRTest", "Assembly-CSharp.csproj", "{7215D12D-D64B-A97F-2214-F98AE729CF8F}"
+EndProject
+Project("{E7BA51EA-9C04-1970-B74A-46C23E15CFC2}") = "GearVRTest", "Assembly-CSharp-Editor.csproj", "{AD07387F-DB3C-AE78-24DB-E6C22835BFF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E550816-3FA1-E71E-9BD9-7AEE3ED35E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E550816-3FA1-E71E-9BD9-7AEE3ED35E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E550816-3FA1-E71E-9BD9-7AEE3ED35E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E550816-3FA1-E71E-9BD9-7AEE3ED35E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7215D12D-D64B-A97F-2214-F98AE729CF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7215D12D-D64B-A97F-2214-F98AE729CF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7215D12D-D64B-A97F-2214-F98AE729CF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7215D12D-D64B-A97F-2214-F98AE729CF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD07387F-DB3C-AE78-24DB-E6C22835BFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD07387F-DB3C-AE78-24DB-E6C22835BFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD07387F-DB3C-AE78-24DB-E6C22835BFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD07387F-DB3C-AE78-24DB-E6C22835BFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
